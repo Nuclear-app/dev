@@ -21,7 +21,7 @@ I’m Ojas, one of the four semi-responsible humans behind this project. We’ll
 
 # The idea
 
-Nuclear started out like most of our “startup ideas”, somewhere around midnight, in a conversation we barely remember. Normally these ideas vanish by morning, but this one stuck. Maybe because we couldn’t stop complaining about all the existing AI tools. Maybe because we had too much ramen. Or maybe because we realized… we could actually build something better.
+Nuclear started out like most of our “startup ideas”, somewhere around midnight, in a conversation we barely remember. Normally these ideas vanish by morning, but this one stuck. Maybe because we couldn’t stop complaining about all the existing AI tools. Maybe because we had too much ramen. Or maybe because we realised… we could actually build something better.
 
 ---
 
