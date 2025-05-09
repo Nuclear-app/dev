@@ -3,22 +3,19 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Nuclear is a note-taking app that actually wants you to learn, not just copy-paste your way through lectures. Instead of dumping summaries and quizzes on you, we give you structured notes that unlock as you prove your understanding. 
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Built by students who were tired of surface-level AI tools, Nuclear adapts to how you study, whether you like filling in the blanks, freestyling with LaTeX, or just want your notes to look clean without doing all the work.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Currently building our MVP under McGill's TechAccel program. Launching soon...
 
-<div>
-  <img src="/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Nuclear is built on Next.Js and Supabase. With a sprinkle of figma.
 
-## Features
+<!-- ## Features
 
 Here are certain features of this site.
 
@@ -33,4 +30,4 @@ Here are certain features of this site.
 - highly customizable
 
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+Or you can even give any feedback via my [email](mailto:contact@satnaing.dev). -->
