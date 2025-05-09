@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://nuclearapp.ca/",
   desc: "A notetaking app that adapts to your way of thinking.",
   title: "Nuclear Dev",
-  // ogImage: "astropaper-og.jpg",
+  ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
