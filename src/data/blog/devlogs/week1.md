@@ -16,7 +16,8 @@ description:
 7 days ago we just had an idea, a lot of sketches and brainstorming for what technologies we should use and how the design/userflow should look like.
 Now we have a working website maybe just on a local server but it's not just an idea anymore, it's not just sketches, it's actual software.
 
-It has a face :)
+It has a face, so don't forget to waitlist: [waitlist](https://nuclearapp.ca/waitlist)
+
 
 ![face of Nuclear](../misc/start1.png)
 
