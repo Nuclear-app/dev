@@ -2,7 +2,7 @@
 title: Function Signatures
 author: team
 pubDatetime: 2025-05-08T04:06:31Z
-slug: dev-log-0
+slug: function-signature
 featured: true
 draft: false
 tags:
