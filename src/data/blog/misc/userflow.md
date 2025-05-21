@@ -18,3 +18,7 @@ description:
 ## Userflow Diagram with timeline
 
 ![Userflow Diagram with timeline](./userflow-timeline.webp)
+
+## Modes Flow Diagram
+
+![Modes Flow Diagram](./modeflow.png)
