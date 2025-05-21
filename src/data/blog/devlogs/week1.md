@@ -36,6 +36,8 @@ However,
 
 ---
 
+
+
 ## The problem
 
 Apparently, there was a big problem with front-end implementation for the text-editor with React-Quill. In summary, it fucked us, the documentation was not documented properly.
