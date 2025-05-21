@@ -21,4 +21,4 @@ description:
 
 ## Modes Flow Diagram
 
-![Modes Flow Diagram](./modeflows.png)
+![Modes Flow Diagram](./modeflows.webp)
