@@ -19,7 +19,7 @@ this week we had some basic working pages for the website but obviously a LOT mo
 
 i finished up **really cool designs for the block view**, so basically people will have crates 📦 📦 📦 and blocks 📜 📜 📜 , _where crates are like folders_ and _blocks are the individual pieces inside where the learning happens_.
 
-![block ui](..misc/blockview.png)
+![block ui](../misc/blockview.png)
 
 we also have different flows and ui for different modes! in our first mode, **just the story**, users get to upload stuff and get the learning material striaght up, no fuss!
 
