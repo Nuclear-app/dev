@@ -7,6 +7,8 @@ featured: true
 draft: false
 tags:
   - devlog
+description:
+  ....
 ---
 
 We often forget how limited language really is in its ability to convey complex emotions. The thrill and nerves of starting a new project are so alive, they outpace any sentence we can write. Nevertheless, I will do what I can with the words I have.
