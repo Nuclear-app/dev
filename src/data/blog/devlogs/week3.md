@@ -17,7 +17,7 @@ I am Sathya, you know, the one everyone keeps spelling five different ways. For 
 
 If hope and belonging symbolise the hearth, then anxiety and trepidation are the draft beneath the door. They arrive without invitation when a feature breaks or a deadline crawls too close. I have caught myself staring at an editor’s shifting colours with a pounding heart, persuaded that one careless keystroke could undo everything. On those nights, the monitor’s glow feels surgical, exposing every doubt I have tried to hide from myself. Am I moving fast enough? Do I actually understand what we are promising strangers on the internet? What if the kindness people show us now curdles into disappointment later?
 
-Yet anxiety often arrives arm-in-arm with wonder. Wonder visits when a line of code compiles against all odds. It is the brief intake of breath when the page reloads and the half second before you know whether you have fixed the problem or worsened it. In that suspended instant, everything seems possible.
+Yet anxiety often arrives arm-in-arm with wonder. Wonder visits when a line of code compiles against all odds. It is the brief intake of breath when the page reloads and the half second before you know whether you have fixed the problem or worsened it. In that suspended instant, the whole endeavour seems lighter, pliable, almost easy.
 
 I used to think building software was primarily an act of intellect, algorithms, architectures, clever abstractions. Now I see it is equally an act of emotion. Into every branch we pour curiosity, fear, stubbornness, delight, and a quiet longing for something that matters. One day users will see only the polished surface, but beneath it will live the texture of these weeks: our laughter, our doubts, our sleepless optimism.
 
